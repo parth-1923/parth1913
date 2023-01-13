@@ -2,8 +2,7 @@
 - 👀 I’m interested in Full Stack, Cybersecurity, Networking, Game Development.
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
--                 - Instagram: parthasarathy_1923 
+- 📫 How to reach me : Instagram: parthasarathy_1923 
                                https://www.instagram.com/parthasarathy_1923/
 
 <!---
